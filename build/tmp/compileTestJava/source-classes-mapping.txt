@@ -1,0 +1,2 @@
+score_addition/ScoreCollecitonTest.java
+ score_addition.ScoreCollecitonTest

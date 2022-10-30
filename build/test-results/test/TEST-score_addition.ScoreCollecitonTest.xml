@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="score_addition.ScoreCollecitonTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-10-30T02:09:12" hostname="AL02001808.local" time="0.071">
+  <properties/>
+  <testcase name="answersArithmeticMeanOfTwoNumbers()" classname="score_addition.ScoreCollecitonTest" time="0.071"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
