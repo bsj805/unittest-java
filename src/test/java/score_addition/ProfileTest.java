@@ -11,7 +11,7 @@ class ProfileTest {
         Profile profile = new Profile("BUll Hockey, Inc.");
         Question question = new BooleanQuestion(1,"Got bonuses?");
         Criteria criteria = new Criteria();
-        Answer criteriaAnswer = new Answer();
+        Answer criteriaAnswer = new Answer(question,Bool.FALSE);
         Criterion criterion = new Criterion(criteriaAnswer,Weight.MustMatch);
         criteria.add(criterion);
     }
